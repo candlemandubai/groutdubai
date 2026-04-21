@@ -57,7 +57,7 @@ export function Guarantee() {
               <p className="mt-4 text-[15px] md:text-[16px] text-white/70 leading-relaxed max-w-[560px]">
                 We restore medium-to-heavy grout dirt on our first visit. If your
                 grout isn&apos;t visibly transformed, you walk away without paying.
-                We&apos;ll even clean up. No fine print.
+                No fine print.
               </p>
               <div className="mt-6 flex flex-wrap gap-2 text-[12px]">
                 {[

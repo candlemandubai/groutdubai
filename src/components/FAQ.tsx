@@ -13,7 +13,7 @@ const FAQS = [
   },
   {
     q: "What does 'no clean, no charge' actually mean?",
-    a: "We inspect the finish with you before you pay. If the restoration didn't deliver a visible, dramatic before-and-after, we don't charge — no deposit, no call-out fee, no fine print. We'll even clean up.",
+    a: "We inspect the finish with you before you pay. If the restoration didn't deliver a visible, dramatic before-and-after, we don't charge — no deposit, no call-out fee, no fine print.",
   },
   {
     q: "Do you clean tile surfaces too, or only the grout lines?",

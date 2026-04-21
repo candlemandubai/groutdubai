@@ -95,7 +95,7 @@ export function Footer() {
             © {year} {BRAND}. {DOMAIN} — operated by {LEGAL_COMPANY}, Dubai DED
             License {LICENSE_NO}.
           </p>
-          <p className="text-white/40">Made with German technology.</p>
+          <p className="text-white/40">Handled with German technology.</p>
         </div>
       </div>
     </footer>
