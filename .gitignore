@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.tsbuildinfo
+.DS_Store
+*.local
+.vscode
+.idea
+.vercel
+.env
+.env.local
+.env.*.local
+.superpowers
